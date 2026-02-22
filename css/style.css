@@ -3,7 +3,9 @@ h1 {
 }
 p{
     text-align: center; 
+    padding: 30px;
 }
 body {
   background-color: rgba(245, 161, 231, 0.102);
 }
+
